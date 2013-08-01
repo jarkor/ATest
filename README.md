@@ -1,0 +1,4 @@
+ATest
+=====
+
+Testovací git
